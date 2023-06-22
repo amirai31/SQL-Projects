@@ -1,3 +1,4 @@
-# Data-Analytics
+# SQL
 
-This repository includes data analytics projects
+This repository includes SQL projects
+1. Instagram User Analytics
